@@ -13,6 +13,7 @@ export class RecipeListComponent implements OnInit {
       'This is simply a test',
       'https://www.cookipedia.co.uk/wiki/images/7/7d/Salmone_alla_ticinese_recipe.jpg'
     ),
+   
   ];
   constructor() {}
 
